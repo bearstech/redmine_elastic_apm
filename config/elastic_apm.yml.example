@@ -1,0 +1,9 @@
+---
+# Elastic APM example configuration file.
+# See https://www.elastic.co/guide/en/apm/agent/ruby/2.x/configuration.html
+# For more details
+server_url: 'http://localhost:8200'
+service_name: 'Redmine'
+current_user_username_method: 'login'
+current_user_email_method: 'mail'
+ignore_url_patterns: ['^/health_check']
