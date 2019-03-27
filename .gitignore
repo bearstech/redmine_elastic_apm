@@ -1,3 +1,3 @@
 /config/elastic_apm.yml
-/tmp
-/tmp/*
+# /tmp
+# /tmp/*
