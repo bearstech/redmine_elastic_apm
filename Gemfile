@@ -1,1 +1,1 @@
-gem 'elastic-apm', '~> 2.6'
+gem 'elastic-apm'
